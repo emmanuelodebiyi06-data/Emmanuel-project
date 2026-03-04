@@ -19,4 +19,9 @@ This project is an end-to-end **Power BI** solution developed to analyze a massi
 
 ## Visuals
 ##  Unified Dashboards
-![Portfolio Summary](Screenshot2025-11-20134022.png)
+![Dashboard](Health_record_dashboard.png)
+![REPORT](Health_report_1.png)
+![REPORT](health_report_2.png)
+![REPORT](health_report_3.png)
+![REPORT](health_report_4.png)
+![REPORT](health_report_5.png)
